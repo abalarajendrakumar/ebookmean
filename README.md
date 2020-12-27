@@ -22,14 +22,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![Screenshot (209)](https://user-images.githubusercontent.com/75778520/103165453-35a35180-483e-11eb-90c5-2a2f5f8ff0cb.png)
 # ADMIN DASHBOARD
 ![Screenshot (210)](https://user-images.githubusercontent.com/75778520/103165455-3a680580-483e-11eb-93bb-1e3597d3c08a.png)
+
 # READER POSTS
-![Screenshot (211)](https://user-images.githubusercontent.com/75778520/103165459-3fc55000-483e-11eb-90cb-a776118e9c09.png)
-# HOME PAGE
 ![Screenshot (212)](https://user-images.githubusercontent.com/75778520/103165461-4653c780-483e-11eb-9d35-7fc67f51e0f6.png)
-# HOME PAGE
-![Screenshot (214)](https://user-images.githubusercontent.com/75778520/103165466-4f449900-483e-11eb-90e7-3b2bc75fa774.png)
-# HOME PAGE
-![Screenshot (219)](https://user-images.githubusercontent.com/75778520/103165468-553a7a00-483e-11eb-9e31-f42edcd63e53.png)
+
 
 
 ## Development server
