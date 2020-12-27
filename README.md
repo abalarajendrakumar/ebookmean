@@ -6,8 +6,31 @@ languages and Clear descriptions about each book will be given. Reader can
 comment of books and also reader can publish their own book on their wish.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
-
+# HOME PAGE
 ![Screenshot (203)](https://user-images.githubusercontent.com/75778520/103165353-96ca2580-483c-11eb-85b6-37ab6b7dd14d.png)
+# LOGIN
+![Screenshot (204)](https://user-images.githubusercontent.com/75778520/103165439-0f7db180-483e-11eb-81cb-fe116cb80cdd.png)
+# REGISTER
+![Screenshot (205)](https://user-images.githubusercontent.com/75778520/103165444-173d5600-483e-11eb-9a35-dd69d989e591.png)
+# HOME PAGE
+![Screenshot (206)](https://user-images.githubusercontent.com/75778520/103165447-1e646400-483e-11eb-93c5-656e646f6cd9.png)
+# HOME PAGE
+![Screenshot (207)](https://user-images.githubusercontent.com/75778520/103165448-26bc9f00-483e-11eb-848d-8539b5986c62.png)
+# HOME PAGE
+![Screenshot (208)](https://user-images.githubusercontent.com/75778520/103165452-2e7c4380-483e-11eb-9122-714bd25a19cd.png)
+# HOME PAGE
+![Screenshot (209)](https://user-images.githubusercontent.com/75778520/103165453-35a35180-483e-11eb-90c5-2a2f5f8ff0cb.png)
+# HOME PAGE
+![Screenshot (210)](https://user-images.githubusercontent.com/75778520/103165455-3a680580-483e-11eb-93bb-1e3597d3c08a.png)
+# HOME PAGE
+![Screenshot (211)](https://user-images.githubusercontent.com/75778520/103165459-3fc55000-483e-11eb-90cb-a776118e9c09.png)
+# HOME PAGE
+![Screenshot (212)](https://user-images.githubusercontent.com/75778520/103165461-4653c780-483e-11eb-9d35-7fc67f51e0f6.png)
+# HOME PAGE
+![Screenshot (214)](https://user-images.githubusercontent.com/75778520/103165466-4f449900-483e-11eb-90e7-3b2bc75fa774.png)
+# HOME PAGE
+![Screenshot (219)](https://user-images.githubusercontent.com/75778520/103165468-553a7a00-483e-11eb-9e31-f42edcd63e53.png)
+
 
 ## Development server
 
