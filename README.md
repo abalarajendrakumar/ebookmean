@@ -18,11 +18,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![Screenshot (207)](https://user-images.githubusercontent.com/75778520/103165448-26bc9f00-483e-11eb-848d-8539b5986c62.png)
 # ALL BOOKS
 ![Screenshot (208)](https://user-images.githubusercontent.com/75778520/103165452-2e7c4380-483e-11eb-9122-714bd25a19cd.png)
-# HOME PAGE
+# BOOKS BY LANGUAGE
 ![Screenshot (209)](https://user-images.githubusercontent.com/75778520/103165453-35a35180-483e-11eb-90c5-2a2f5f8ff0cb.png)
-# HOME PAGE
+# ADMIN DASHBOARD
 ![Screenshot (210)](https://user-images.githubusercontent.com/75778520/103165455-3a680580-483e-11eb-93bb-1e3597d3c08a.png)
-# HOME PAGE
+# READER POSTS
 ![Screenshot (211)](https://user-images.githubusercontent.com/75778520/103165459-3fc55000-483e-11eb-90cb-a776118e9c09.png)
 # HOME PAGE
 ![Screenshot (212)](https://user-images.githubusercontent.com/75778520/103165461-4653c780-483e-11eb-9d35-7fc67f51e0f6.png)
