@@ -1,6 +1,6 @@
 # E-BOOKSHELF
 
-E-Book Shelf – E-book Shelf is a web based application it is bridge between readers
+E-book Shelf is a web based application it is bridge between readers
 and authors. It provides the number of e-books for free with different genres and
 languages and Clear descriptions about each book will be given. Reader can
 comment of books and also reader can publish their own book on their wish.
